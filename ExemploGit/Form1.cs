@@ -6,5 +6,7 @@ namespace ExemploGit
         {
             InitializeComponent();
         }
+
+        string exemplo = "Exemplo de string para o git";
     }
 }
